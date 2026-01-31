@@ -1,4 +1,5 @@
 # Event Ticket Booking System
+A project that shows real-world implemntation of Data Structures and Algorithms.
 
 ##  Project Overview
 The Event Ticket Booking System is a website inspired by real-world event booking platforms.  
